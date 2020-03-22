@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2018" started-at="2019-12-04T21:05:32Z" finished-at="2019-12-04T21:05:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2018" started-at="2019-12-04T21:05:32Z" finished-at="2019-12-04T21:05:34Z">
+      <class name="LandlordAutomation.sample">
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:LandlordAutomation.sample@63d4e2ba]" name="sampletest" duration-ms="1994" started-at="2019-12-04T13:05:32Z" finished-at="2019-12-04T13:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- LandlordAutomation.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

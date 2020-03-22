@@ -9,7 +9,7 @@ public class OpenGoogleSearchEngine {
 	
 		public static void main(String[] args) throws InterruptedException 
 		{
-		    System.setProperty("webdriver.chrome.driver", "C:\\Users\\senid\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		    System.setProperty("webdriver.chrome.driver", "C:\\Users\\senid\\Downloads\\chromedriver_win32_2\\chromedriver.exe");
 	        ChromeDriver driver = new ChromeDriver();
 			
 			driver.get("https://selenium-prd.firebaseapp.com/");
